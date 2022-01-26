@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Run CRUD operation on BestBuy API","User can run successful CRUD operation on store details","SUCCESS","2022-01-26T00:24:04.498Z[Europe/London]","0.0","7.6"
+"Run CRUD operation on BestBuy API","User can run successful CRUD operation on product details","SUCCESS","2022-01-26T00:24:13.837Z[Europe/London]","0.0","0.54"
+"Run CRUD operation on BestBuy API","User can run successful CRUD operation on service records","SUCCESS","2022-01-26T00:24:14.582Z[Europe/London]","0.0","0.63"
+"Run CRUD operation on BestBuy API","User can run successful CRUD operation on category records","SUCCESS","2022-01-26T00:24:15.437Z[Europe/London]","0.0","0.47"

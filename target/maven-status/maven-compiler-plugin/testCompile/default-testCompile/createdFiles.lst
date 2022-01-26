@@ -1,0 +1,7 @@
+com\bestbuyapi\AppTest.class
+com\bestbuyapi\cucumber\steps\ProductCRUDSteps.class
+com\bestbuyapi\cucumber\steps\StoreCRUDSteps.class
+com\bestbuyapi\testbase\TestBase.class
+com\bestbuyapi\cucumber\CucumberRunner.class
+com\bestbuyapi\cucumber\steps\CategoriesCRUDSteps.class
+com\bestbuyapi\cucumber\steps\ServicesCRUDSteps.class
